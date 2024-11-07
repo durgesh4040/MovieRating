@@ -1,4 +1,4 @@
-# Movie Rating and Moving Searching App🎬
+# Movie Rating and Movie Searching App🎬
 
 [Check out the Movie Rating App](https://movierating-react-app.web.app) 🍿📽️📸.
 
